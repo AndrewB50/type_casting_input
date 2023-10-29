@@ -1,7 +1,7 @@
 # type_casting_input
 # Assignment from week 1 of Meta's Programming in Python course.
 # Below is the README file provided by Meta.
-
+<br><br>
 # Lab Instructions: Type Casting Input
 
 In this lab you will be presented with three exercises to demonstrate how explicit type casting can be.  
